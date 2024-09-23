@@ -1,0 +1,18 @@
+\documentclass{article}
+\usepackage{graphicx} % Required for inserting images
+
+
+\usepackage{amsmath}
+Si \hspace{0.8cm} 5x + 3 = 55, \\
+entonces \hspace{0.3cm} (x + 3) + (-3) = 5 + (-3), \\
+de donde \hspace{0.2cm} 5x + (3 + (-3)) = 5 - 3 = 25, \\
+de donde \hspace{0.2cm} 5x + 0 = 25, \\
+de donde \hspace{0.2cm} 5x = 25.
+
+
+
+\begin{document}
+
+
+
+\end{document}
